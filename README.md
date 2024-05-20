@@ -1,6 +1,6 @@
 # Online-Food-Delivery-Website
 
-#Project Overview
+# Project Overview
 This Online Food Ordering System streamlines the process of ordering food from various restaurants. It offers users an intuitive and user-friendly platform to browse menus, place orders, and track order status. The system is designed to enhance user convenience and operational efficiency for restaurant administrators through a comprehensive admin panel for managing menus, orders, and customer interactions.
 
 Key Features
